@@ -9,8 +9,8 @@ EC327 Final Project Documentation On Model 5
 
 ________________________________________________________________________________
   |             |                |                |                 |
-Model 1	    Model 2 and 3		  Model 4	     Model 5 and PPT	Final Doc and Video
- Dec 8		     Dec 9		       Dec 10	         Dec 11		          Dec 12
+Model 1	    Model 2 and 3	Model 4	     Model 5 and PPT	Final Doc and Video
+ Dec 8		     Dec 9	Dec 10	         Dec 11		          Dec 12
  
 Introduction
 Our model employs the use of an open-source platform called TensorFlow which is developed by Google primarily for deep learning applications. TensorFlow provides pre-built functions and advanced operations to ease the task of building different neural networks. This platform provides a comprehensive and flexible ecosystem of tools, community tools and libraries. Additionally, a high level interface, called Keras, is used in TensorFlow to solve machine learning problems. Keras provides essential abstractions and building blocks for developing and shipping machine learning solutions with high iteration velocity. 
